@@ -6,9 +6,15 @@ Keeps track of basketball scores for two teams. Used in the Udacity Android for 
 Pre-requisites
 --------------
 
-- Android SDK v24
-- Android Build Tools v24.0.2
-- Android Support Repository v24.2.0
+- Android SDK v25
+- Android Build Tools v25.0.0
+- Android Support Repository v25.3.1
+
+Gradle Android Lifecycle Architecture Components
+------------------------------------------------
+- compile "android.arch.lifecycle:runtime:1.0.0-alpha5"
+- compile "android.arch.lifecycle:extensions:1.0.0-alpha5"
+- annotationProcessor "android.arch.lifecycle:compiler:1.0.0-alpha5"
 
 Getting Started
 ---------------
